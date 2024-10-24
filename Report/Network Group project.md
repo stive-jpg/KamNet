@@ -130,13 +130,13 @@ Every piece of hardware is a Cisco product.
 |        |        |
 
 
-Router#int g0/0.60
-Router(config-subif)#encapsulation dot1Q 60
-Router(config-subif)#ip add 192.168.1.129 255.255.255.192
-Router(config-subif)#ip helper-address 192.168.1.226
-Router(config-subif)#exit
-Router#int g0/0
-Router#no shutdown
+Router#int g0/0.60 
+Router(config-subif)#encapsulation dot1Q 60 
+Router(config-subif)#ip add 192.168.1.129 255.255.255.192 
+Router(config-subif)#ip helper-address 192.168.1.226 
+Router(config-subif)#exit 
+Router#int g0/0 
+Router#no shutdown 
 ***
 
 (config)AAA new-model
