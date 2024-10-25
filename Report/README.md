@@ -81,7 +81,7 @@ The figure below describes the possible growth of each department.
 | Direction  | 192.168.1.192 /27                   | 5             | 30        | 500%             |
 | Server     | 192.168.1.224 /28                   | 3             | 14        | 367%             |
 | Support    | 192.168.2.0 /26<br>192.168.2.64 /26 | 20            | 124       | 520%             |
-| ExtraPool1 | 192.168.1.240 /28                   | /             | 14        | /                |
+| Storage    | 192.168.1.240 /28                   | 1             | 14        | /                |
 | ExtraPool2 | 192.168.2.128 /25                   | /             | 126       | /                |
 
 It is noticeable that the Support department is set up on its own network. Likewise, if each subnet reach its hosts limits, it is still possible to use the 126 available hosts from ExtraPool2 in order to extend the Support department capacity.
