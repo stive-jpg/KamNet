@@ -133,13 +133,13 @@ Every piece of hardware is a Cisco product.
 
 ### f. Costs
 
-![Pasted image 20241024192410.png]
+![[cost2 1.png]]
 
 
 
 # 3. DEPLOYMENT
 
-![Pasted image 20241025003429.png]
+![[networkmap 1.png]]
 
 ## a. VLAN Configuration 
 
@@ -532,6 +532,7 @@ The PAT configuration is now set.
 # 4. FUTURE IMPROVEMENTS
 
 - Redundancy : increase the strength of the traffic with a second router
+- Implementing ACL on every switch to secure traffic more precisely
 - Monitor the traffic to see if we created any point of congestion
 - 
 
