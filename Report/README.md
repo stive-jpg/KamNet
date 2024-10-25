@@ -139,6 +139,7 @@ Every piece of hardware is a Cisco product.
 
 # 3. DEPLOYMENT
 
+<img src="./networkmap 1.png">
 ![[networkmap 1.png]]
 
 ## a. VLAN Configuration 
