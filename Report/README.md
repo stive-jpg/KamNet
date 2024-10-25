@@ -1,20 +1,20 @@
 
 # SUMMARY
 1. PROJECT OVERVIEW
-2. NETWORK DEFINITION  
-	a. Current setup  
-	b. Network/Subnet Attribution  
-	c. VLAN segmentation  
-	d. Network Topology  
-	e. Network setup  
-	f. Costs  
-3. DEPLOYMENT  
-	a. VLAN Configuration  
-	b. DHCP Server configuration  
-	c. Configuration DNS Server  
-	d. Configuration Radius  
-	e Storage - ISCSI Server  
-	f. Using PAT on the Network Router  
+2. NETWORK DEFINITION
+	a. Current setup
+	b. Network/Subnet Attribution
+	c. VLAN segmentation
+	d. Network Topology
+	e. Network setup
+	f. Costs
+3. DEPLOYMENT
+	a. VLAN Configuration
+	b. DHCP Server configuration
+	c. Configuration DNS Server
+	d. Configuration Radius
+	e Storage - ISCSI Server
+	f. Using PAT on the Network Router
 
 # 1. PROJECT OVERVIEW
 
@@ -532,6 +532,7 @@ The PAT configuration is now set.
 # 4. FUTURE IMPROVEMENTS
 
 - Redundancy : increase the strength of the traffic with a second router
+- Monitor the traffic to see if we created any point of congestion
 - 
 
 
