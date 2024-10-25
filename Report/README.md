@@ -21,6 +21,8 @@
 
 **Project Context:**
 
+<img src="./logo.png">
+
 KamNet is a production company relocating to a new office. The company needs a new secure and efficient network. The goal is to modernize the actual setup with a cost-effective, well-structured plan that optimizes resource allocation while adhering to stringent security best practices.
 
 
