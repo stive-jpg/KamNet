@@ -133,14 +133,14 @@ Every piece of hardware is a Cisco product.
 
 ### f. Costs
 
-![[cost2 1.png]]
 
+<img src="./cost2.png">
 
 
 # 3. DEPLOYMENT
 
 <img src="./networkmap 1.png">
-![[networkmap 1.png]]
+
 
 ## a. VLAN Configuration 
 
