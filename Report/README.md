@@ -1,20 +1,20 @@
 
 # SUMMARY
-1. PROJECT OVERVIEW
-2. NETWORK DEFINITION
-	a. Current setup
-	b. Network/Subnet Attribution
-	c. VLAN segmentation
-	d. Network Topology
-	e. Network setup
-	f. Costs
-3. DEPLOYMENT
-	a. VLAN Configuration
-	b. DHCP Server configuration
-	c. Configuration DNS Server
-	d. Configuration Radius
-	e Storage - ISCSI Server
-	f. Using PAT on the Network Router
+1. PROJECT OVERVIEW  
+2. NETWORK DEFINITION  
+	a. Current setup  
+	b. Network/Subnet Attribution  
+	c. VLAN segmentation  
+	d. Network Topology  
+	e. Network setup  
+	f. Costs  
+3. DEPLOYMENT  
+	a. VLAN Configuration  
+	b. DHCP Server configuration  
+	c. Configuration DNS Server  
+	d. Configuration Radius  
+	e Storage - ISCSI Server  
+	f. Using PAT on the Network Router  
 
 # 1. PROJECT OVERVIEW
 
@@ -133,13 +133,14 @@ Every piece of hardware is a Cisco product.
 
 ### f. Costs
 
-![[cost2 1.png]]
 
+<img src="./cost2.png">
 
 
 # 3. DEPLOYMENT
 
-![[networkmap 1.png]]
+<img src="./networkmap 1.png">
+
 
 ## a. VLAN Configuration 
 
